@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple App</string>
+    <string name="login">Login</string>
+    <string name="email_address">Email Address</string>
+    <string name="enter_your_email_here">Enter your email here!</string>
+    <string name="sign_in">Sign In</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="enter_your_password_here">Enter your password here!</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget Password?</string>
+</resources>
